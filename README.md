@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Larry Humpiri (LK)
+**Industrial Engineer | Data Analytics & Process Automation**
 
-<!--
-**LarryHumpiri/LarryHumpiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/LarryHumpiri?label=Follow&style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=LarryHumpiri)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech & Tools  
+- **Languages:** Python · SQL · R  
+- **Data:** pandas · NumPy · scikit-learn  
+- **Viz:** matplotlib · Plotly · Power BI · Folium  
+- **Automation & Orchestration:** Airflow · GitHub Actions  
+
+---
+
+## 🚀 Projects  
+| Project                        | Stack                             | Link                                     |
+|--------------------------------|-----------------------------------|------------------------------------------|
+| **Churn Prediction ML Model**  | scikit-learn · XGBoost · Flask     |
+
+---
+
+## 📫 Connect with me  
+- LinkedIn: [https://www.linkedin.com/in/larry-humpiri-obregon-565145189/](https://www.linkedin.com/in/larry-humpiri-obregon-565145189/)  
+- Email: larry.humpiri@mail.com  
+
+---
+
+## 🇪🇸 Sobre mí  
+Soy Ingeniero Industrial especializado en Análisis de Datos y Automatización de Procesos. Me apasiona convertir datos complejos en insights que impulsen la eficiencia y la innovación.
