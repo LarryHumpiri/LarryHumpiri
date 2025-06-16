@@ -23,7 +23,7 @@
 
 ## 📫 Connect with me  
 - LinkedIn: [https://www.linkedin.com/in/larry-humpiri-obregon-565145189/](https://www.linkedin.com/in/larry-humpiri-obregon-565145189/)  
-- Email: larry.humpiri@mail.com  
+- Email: larry.humpiri@gmail.com  
 
 ---
 
