@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Connect with me  
-- LinkedIn: [https://www.linkedin.com/in/larryhumpir](https://www.linkedin.com/in/larryhumpir)  
+- LinkedIn: [https://www.linkedin.com/in/larryhumpiri](https://www.linkedin.com/in/larryhumpiri)  
 - Email: larry.humpiri@gmail.com  
 
 ---
